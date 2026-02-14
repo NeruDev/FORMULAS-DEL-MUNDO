@@ -1,0 +1,10 @@
+# Python virtual environment
+.venv/
+
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scripts temporales de conversión
+convert*.py
