@@ -9,7 +9,7 @@ Mira la pizarra. El mundo no se está acabando, solo se está volviendo viejo, a
 
 ### Fase 1: La Anamnesis (Síntomas)
 
-* **Tasa de Fertilidad Global (TFR):** Estamos en $2.2$ o $2.3$ hijos por mujer. Suena bien, ¿verdad? Error. El nivel de reemplazo es $2.1$. Estamos a un estornudo de que la población empiece a encogerse.
+* **Tasa de Fertilidad Global (TFR):** Estamos en $2.2$ o $2.3$ hijos por mujer. Suena bien, ¿verdad? Error. El nivel de reemplazo es $2.1$.2.1$. Estamos a un estornudo de que la población empiece a encogerse.
 * **Isquemias regionales:** Europa ($1.38$), Asia Oriental ($1.0$ o menos en lugares como Corea del Sur) y América Latina ($1.8$) ya están en cuidados intensivos.
 * **La única extremidad con pulso:** África subsahariana ($4.0$), que básicamente está manteniendo el promedio mundial antes de que colapsemos.
 
@@ -438,7 +438,7 @@ Saca la pizarra. Vamos a analizar por qué el "sangre caliente" se está enfrian
 
 México solía tener una vitalidad envidiable, pero miren los signos vitales actuales:
 
-* **Tasa de Fecundidad:** En los años $60$, el número era **$6.7$** hijos por mujer. Hoy, en $2026$, estamos coqueteando con el **$1.55$** o **$1.60$**. El nivel de reemplazo es **$2.1$**. El paciente no está herido, está en una trayectoria de colisión con el suelo.
+* **Tasa de Fecundidad:** En los años $60$, el número era **$6.7$** hijos por mujer. Hoy, en $2026$, estamos coqueteando con el **$1.55$** o **$1.60$**. El nivel de reemplazo es $2.1$.*$2.1$**. El paciente no está herido, está en una trayectoria de colisión con el suelo.
 * **Envejecimiento Acelerado:** Lo que a Europa le tomó $50$ años (envejecer), a México le está tomando $15$. Es un caso de **progeria demográfica**.
 * **Bono Demográfico:** Ese grupo de jóvenes que iba a salvar la economía... bueno, ya tienen canas y están más preocupados por su salud mental que por procrear.
 
